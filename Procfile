@@ -1,1 +1,1 @@
-web: gunicorn love_blog.wsgi:application
+web: gunicorn love-blog.wsgi:application
